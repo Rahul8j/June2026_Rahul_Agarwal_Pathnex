@@ -1,0 +1,10 @@
+Todays's Task
+2.5 Hour session
+1 Hour Git
+2 Hour Docker
+1 Hour AWS
+
+Tomorrow's Task
+1 Hour Git
+1 Hour AWS
+2 Hour Docker
