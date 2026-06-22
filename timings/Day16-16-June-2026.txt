@@ -1,0 +1,10 @@
+Today's Task
+3 hour session
+1 hour Docker
+2 Kubernetes
+
+
+Tomorrow's Task
+1 hour Docker
+2 hour Aws
+1 hour kubernetes
