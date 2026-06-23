@@ -1,0 +1,11 @@
+Today's Task
+3 hour session
+1 hour docker
+2 kubernetes
+1 hour Terraform
+
+
+Tomorrow's Task
+2 hour Kubernetes
+1 hour Terraform
+1 hour Helm
