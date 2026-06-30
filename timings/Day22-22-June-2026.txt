@@ -1,0 +1,10 @@
+Today's Task
+2.5 hour session
+1 AWS
+2 K8s
+1 Terraform
+
+Tomorrow's Task
+1 Docker
+2 AWS
+1 K8s
